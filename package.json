@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "Simple demo app for GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {}
+}
+
